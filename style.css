@@ -50,6 +50,7 @@ nav ul li{
 
 .profile{
     position: relative; 
+    cursor: pointer; 
 
 }
 .profile .hide{
