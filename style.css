@@ -40,8 +40,6 @@ nav{
     background-color: rgba(255,255,255,0.9);
     position: sticky;
     top: 0; 
-    
-
 }
 
 nav .nav-list{
@@ -107,7 +105,7 @@ nav ul li{
 .header p, .header h1{
     margin: 10px 0;
     color: white;
-    text-shadow: 1px 1px 2px black;
+    text-shadow: 1px 1px 2px rgb(96, 95, 95);
 }
 
 .features{
