@@ -48,8 +48,18 @@ nav ul li{
     /* padding: 10px 30px; */
 }
 
+.profile{
+    position: relative; 
+
+}
 .profile .hide{
     display: none;
+    position: absolute; 
+    background-color: white;
+    width: 200px;
+    right: 0;
+    padding: 10px;
+    box-shadow: 1px 1px 5px gray;
 }
 
 
