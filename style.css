@@ -93,13 +93,16 @@ nav ul li{
     padding-bottom: 5rem;
         background:
      /*top, gradient green and blue */
-     linear-gradient(to right,
-        #8b5cf6,
-        #a78bfa,
-        #5eead4,
-        #14b8a6
-        ),
-        url();
+    linear-gradient(to right,
+        rgba(139, 92, 246, 0.6),
+        rgba(167, 139, 250, 0.6),
+        rgba(94, 234, 212, 0.6),
+        rgba(20, 184, 166, 0.6)
+    ),
+    url(./img/worker_image.jpg);
+
+background-size: cover;
+background-position: center;
 }
 
 .header p, .header h1{
